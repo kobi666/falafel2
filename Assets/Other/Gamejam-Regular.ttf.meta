@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b15160a136f335346b65b60e39710039
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gamejam
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 905ec684e00fd1b48ab3532704901ecf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
